@@ -1,0 +1,50 @@
+.principal {
+    background-color: cyan;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.verde {
+    background-color: green;
+    width: 450px;
+    height: 650px;
+    margin: 5px auto;
+}
+
+.horizontal {
+    margin: 5px auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.vertical {
+    display: flex;
+    flex-direction: column;
+}
+
+.caja {
+    display: flex;
+    flex-direction: row;
+}
+
+.vertical1 {
+    background-color: orange;
+    width: 90%;
+    height: 120px;
+    margin: 5px auto;
+}
+
+.horizontal1 {
+    background-color: red;
+    width: 25%;
+    height: 120px;
+    margin: auto;
+}
+
+.cuadrados {
+    background-color: #ffa460;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
